@@ -1,6 +1,6 @@
 {
   "name": "cursor-style-by-kalleu",
-  "displayName": "Cursor Style by Kalleu",
+  "displayName": "VS saBOR Cursor",
   "description": "Tema escuro moderno para VS Code inspirado em um visual clean e produtivo",
   "version": "0.0.8",
   "publisher": "Kalloyer",
@@ -30,7 +30,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cursor Style by Kalleu",
+        "label": "VS saBOR Cursor",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor-style-by-kalleu-color-theme.json"
       }

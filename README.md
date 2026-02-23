@@ -1,10 +1,10 @@
-# Cursor Style by Kalleu
+# VS saBOR Cursor
 
 Tema escuro moderno para VS Code, com visual clean e foco em produtividade, legibilidade e baixa fadiga visual durante longas sessões de código.
 
 ## ✨ Visão geral
 
-- **Nome da extensão:** `Cursor Style by Kalleu`
+- **Nome da extensão:** `VS saBOR Cursor`
 - **Publisher:** `Kalloyer`
 - **Tipo de tema:** `dark` (`vs-dark`)
 - **Objetivo:** oferecer contraste equilibrado, sintaxe clara e consistência visual entre editor, sidebar e terminal
@@ -68,7 +68,7 @@ npm run package
 1. Abra a pasta `cursor-style-by-kalleu` no VS Code
 2. Pressione `F5` para iniciar um **Extension Development Host**
 3. No host, abra `Preferences: Color Theme`
-4. Selecione **Cursor Style by Kalleu**
+4. Selecione **VS saBOR Cursor**
 
 ## 🔄 Converter `settings.json` para o tema
 

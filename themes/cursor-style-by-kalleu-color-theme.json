@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Cursor Style by Kalleu",
+  "name": "VS saBOR Cursor",
   "type": "dark",
   "colors": {
     "focusBorder": "#2b6cb0",
