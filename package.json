@@ -21,11 +21,11 @@
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SEU_USUARIO/cursor-style-by-kalleu.git"
+    "url": "https://github.com/Kalloyer/vscode_cursor_style.git"
   },
-  "homepage": "https://github.com/SEU_USUARIO/cursor-style-by-kalleu#readme",
+  "homepage": "https://github.com/Kalloyer/vscode_cursor_style#readme",
   "bugs": {
-    "url": "https://github.com/SEU_USUARIO/cursor-style-by-kalleu/issues"
+    "url": "https://github.com/Kalloyer/vscode_cursor_style/issues"
   },
   "contributes": {
     "themes": [
@@ -37,7 +37,7 @@
     ]
   },
   "scripts": {
-    "build": "node -e \"const fs=require('fs'); JSON.parse(fs.readFileSync('themes/cursor-style-by-kalleu-color-theme.json','utf8')); console.log('Theme JSON válido.');\"",
+    "build": "node -e \"const fs=require('fs'); JSON.parse(fs.readFileSync('themes/cursor-style-by-kalleu-color-theme.json','utf8')); console.log('Theme JSON valido.');\"",
     "convert-theme": "python scripts/convert_settings_to_theme.py",
     "package": "npx @vscode/vsce package",
     "publish:patch": "npx @vscode/vsce publish patch"
