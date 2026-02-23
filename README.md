@@ -33,6 +33,8 @@ Tema escuro moderno para VS Code, com visual clean e foco em produtividade, legi
 
 ![Editor preview 3](Code_iqvuwCCNKN.png)
 
+![Editor preview 4](image.png)
+
 ## 📦 Instalação
 
 ### Instalar pelo Marketplace
